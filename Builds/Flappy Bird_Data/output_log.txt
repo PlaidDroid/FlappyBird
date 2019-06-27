@@ -1,0 +1,53 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R5 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2389 MB
+    Driver:   23.20.15017.3010
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.445 seconds
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\akhil\Documents\FlappyBird\Builds\Flappy Bird_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 16.228817 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 34.575741 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.352233 ms (FindLiveObjects: 0.085066 ms CreateObjectMapping: 0.012824 ms MarkObjects: 0.245794 ms  DeleteObjects: 0.007266 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.711734 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.306921 ms (FindLiveObjects: 0.042746 ms CreateObjectMapping: 0.013678 ms MarkObjects: 0.241946 ms  DeleteObjects: 0.006839 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.867332 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.496717 ms (FindLiveObjects: 0.049586 ms CreateObjectMapping: 0.015816 ms MarkObjects: 0.412506 ms  DeleteObjects: 0.017526 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.700619 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.325730 ms (FindLiveObjects: 0.041464 ms CreateObjectMapping: 0.012824 ms MarkObjects: 0.250496 ms  DeleteObjects: 0.019663 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fb8 -> priority: 1 
